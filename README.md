@@ -18,4 +18,4 @@ Este é um aplicativo Android simples que permite aos usuários calcular quanto 
 
 ## GIF de Demonstração
 
-![Calculadora de Aposentadoria Demo](./src/main/assets/demonstracao.gif)
+![Calculadora de Aposentadoria Demo](./app/src/main/assets/demonstracao.gif)
